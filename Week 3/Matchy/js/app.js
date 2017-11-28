@@ -112,6 +112,8 @@ function resetGame(){
 	initializeNumbers();
 	hideAll();
 	removeDisableClick();
+
+	countDiv.text("Total Clicks: " + totalClicks);
 }
 
 function initializeNumbers(){
