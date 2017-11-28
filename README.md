@@ -1,6 +1,6 @@
-## Full Stack Training
+# Full Stack Training
 
-### Assignments
+## Assignments
 
 Week 1: [Resume](https://umes4ever.github.io/FM-Foundations/Week%201/cv.html)
 
