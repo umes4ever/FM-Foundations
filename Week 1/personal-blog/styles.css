@@ -24,4 +24,10 @@ section{
 
 .info {
 	font-weight: bold; 
+	padding-left: 50px;
+}
+
+img {
+	border-radius: 40px;
+	float: right;
 }
