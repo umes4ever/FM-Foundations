@@ -1,4 +1,4 @@
-## By Umesh Subba Limbu
+## Full Stack Training
 
 # Assignments
 
